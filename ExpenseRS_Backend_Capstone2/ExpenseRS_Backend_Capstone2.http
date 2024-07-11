@@ -1,0 +1,6 @@
+@ExpenseRS_Backend_Capstone2_HostAddress = http://localhost:5076
+
+GET {{ExpenseRS_Backend_Capstone2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
